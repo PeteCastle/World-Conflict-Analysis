@@ -1,7 +1,7 @@
 # Global Conflict Analysis
 *This document was ported from the original source file*
 
-![](resources/images/2023-09-19-20-22-52.png)
+![](resources/images/page1v2.jpg)
 ![](resources/images/2023-09-19-20-23-03.png)
 
 ## Problem Statement
